@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Ile języków urzędowych ma Rzeczpospolita Polska?",
+        "answer": "Rzeczpospolita Polska ma jeden język urzędowy, język polski.",
+        "sources": ["27"]
+    },
+    {
+        "question": "Na czym opiera się ustrój Rzeczypospolitej Polskiej zgodnie z zasadą podziału władzy?",
+        "answer": "Ustrój Rzeczypospolitej Polskiej opiera się na podziale i równowadze władzy ustawodawczej, władzy wykonawczej i władzy sądowniczej. Władzę ustawodawczą sprawują Sejm i Senat, władzę wykonawczą Prezydent Rzeczypospolitej Polskiej i Rada Ministrów, a władzę sądowniczą sądy i trybunały.",
+        "sources": ["10"]
+    },
+    {
+        "question": "Jaki charakter ma społeczna gospodarka rynkowa w Polsce?",
+        "answer": "Społeczna gospodarka rynkowa oparta na wolności działalności gospodarczej, własności prywatnej oraz solidarności, dialogu i współpracy partnerów społecznych.",
+        "sources": ["20"]
+    },
+    {
+        "question": "Jakie są podstawowe zasady ograniczania konstytucyjnych wolności i praw?",
+        "answer": "Ograniczenia wolności i praw mogą być wprowadzane tylko ustawą, gdy są konieczne dla bezpieczeństwa, porządku publicznego, ochrony środowiska, zdrowia, moralności lub praw innych osób, i nie mogą naruszać ich istoty.",
+        "sources": ["31"]
+    },
+    {
+        "question": "Kto może utracić obywatelstwo polskie?",
+        "answer": "Nikt nie może utracić obywatelstwa polskiego, chyba że sam się go zrzeknie.",
+        "sources": ["34"]
+    },
+    {
+        "question": "Jakie są źródła powszechnie obowiązującego prawa w Polsce?",
+        "answer": "Konstytucja, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia.",
+        "sources": ["87"]
+    },
+    {
+        "question": "Jakie mają pierwszeństwo ratyfikowane umowy międzynarodowe w polskim systemie prawnym?",
+        "answer": "Umowa międzynarodowa ratyfikowana za uprzednią zgodą wyrażoną w ustawie ma pierwszeństwo przed ustawą, jeżeli ustawy tej nie da się pogodzić z umową.",
+        "sources": ["91"]
+    },
+    {
+        "question": "Z ilu posłów składa się Sejm i jakie są zasady wyborów?",
+        "answer": "Sejm składa się z 460 posłów. Wybory do Sejmu są powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym.",
+        "sources": ["96"]
+    },
+    {
+        "question": "Jaki minimalny wiek wymagany jest do zostania posłem i senatorem?",
+        "answer": "21 lat do Sejmu, 30 lat do Senatu.",
+        "sources": ["99"]
+    },
+    {
+        "question": "Jaki jest minimalny wiek kandydata na Prezydenta?",
+        "answer": "Na Prezydenta Rzeczypospolitej może być wybrany obywatel polski, który najpóźniej w dniu wyborów kończy 35 lat.",
+        "sources": ["127"]
+    },
+    {
+        "question": "Jaki jest skład Rady Ministrów?",
+        "answer": "Rada Ministrów składa się z Prezesa Rady Ministrów i ministrów. W skład Rady Ministrów mogą być powoływani wiceprezesi Rady Ministrów. W skład Rady Ministrów mogą być ponadto powoływani przewodniczący określonych w ustawach komitetów.",
+        "sources": ["147"]
+    },
+    {
+        "question": "Jakie są podstawowe zadania Rady Ministrów?",
+        "answer": "Rada Ministrów prowadzi politykę wewnętrzną i zagraniczną Rzeczypospolitej Polskiej oraz kieruje administracją rządową. Do jej zadań należy m.in. zapewnianie wykonania ustaw, wydawanie rozporządzeń, uchwalanie projektu budżetu państwa i zapewnianie bezpieczeństwa wewnętrznego i zewnętrznego państwa.",
+        "sources": ["146"]
+    },
+    {
+        "question": "Jaka jest podstawowa jednostka samorządu terytorialnego i do czego służy?",
+        "answer": "Podstawową jednostką samorządu terytorialnego jest gmina. Gmina wykonuje wszystkie zadania samorządu terytorialnego nie zastrzeżone dla innych jednostek samorządu terytorialnego.",
+        "sources": ["164"]
+    },
+    {
+        "question": "Jakie są sądy sprawujące wymiar sprawiedliwości w Polsce?",
+        "answer": "Sąd Najwyższy, sądy powszechne, sądy administracyjne oraz sądy wojskowe.",
+        "sources": ["175"]
+    },
+    {
+        "question": "Jakie są zasady niezawisłości sędziów?",
+        "answer": "Sędziowie w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko Konstytucji oraz ustawom. Sędzia nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z zasadami niezależności sądów i niezawisłości sędziów.",
+        "sources": ["178"]
+    },
+    {
+        "question": "Jaki jest główny organ kontroli państwowej w Polsce?",
+        "answer": "Najwyższa Izba Kontroli jest naczelnym organem kontroli państwowej.",
+        "sources": ["202"]
+    },
+    {
+        "question": "Jaki jest zakres kontroli prowadzonej przez Najwyższą Izbę Kontroli?",
+        "answer": "Najwyższa Izba Kontroli kontroluje działalność organów administracji rządowej, Narodowego Banku Polskiego, państwowych osób prawnych i innych państwowych jednostek organizacyjnych z punktu widzenia legalności, gospodarności, celowości i rzetelności.",
+        "sources": ["203"]
+    },
+    {
+        "question": "Jaki jest centralny bank państwa i jakie ma uprawnienia?",
+        "answer": "Centralnym bankiem państwa jest Narodowy Bank Polski. Przysługuje mu wyłączne prawo emisji pieniądza oraz ustalania i realizowania polityki pieniężnej.",
+        "sources": ["227"]
+    },
+    {
+        "question": "Jakie rodzaje stanów nadzwyczajnych można wprowadzić w Polsce?",
+        "answer": "W sytuacjach szczególnych zagrożeń może zostać wprowadzony odpowiedni stan nadzwyczajny: stan wojenny, stan wyjątkowy lub stan klęski żywiołowej.",
+        "sources": ["228"]
+    },
+    {
+        "question": "W jakich przypadkach można wprowadzić stan wojenny?",
+        "answer": "W razie zewnętrznego zagrożenia państwa, zbrojnej napaści na terytorium Rzeczpospolitej Polskiej lub gdy z umowy międzynarodowej wynika zobowiązanie do wspólnej obrony przeciwko agresji.",
+        "sources": ["229"]
+    },
+    {
+        "question": "Kto może przedłożyć projekt ustawy o zmianie Konstytucji?",
+        "answer": "Projekt ustawy o zmianie Konstytucji może przedłożyć co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej.",
+        "sources": ["235"]
+    },
+    {
+        "question": "Jakie partie polityczne są zakazane?",
+        "answer": "Zakazane są partie polityczne i organizacje odwołujące się do totalitarnych metod i praktyk nazizmu, faszyzmu lub komunizmu, szerzące nienawiść rasową lub narodowościową, stosujące przemoc dla zdobycia władzy, przewidujące utajnienie struktur lub członkostwa, a także partie o niejawnym finansowaniu.",
+        "sources": ["11", "13"]
+    },
+    {
+        "question": "Kto nie może być posłem?",
+        "answer": "Nie można być równocześnie posłem i senatorem. Mandatu posła nie można łączyć z funkcją Prezesa Narodowego Banku Polskiego, Prezesa Najwyższej Izby Kontroli, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka i ich zastępców, członka Rady Polityki Pieniężnej, członka Krajowej Rady Radiofonii i Telewizji, ambasadora oraz z zatrudnieniem w Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej lub z zatrudnieniem w administracji rządowej (z wyjątkiem członków Rady Ministrów i sekretarzy stanu w administracji rządowej). Sędzia, prokurator, urzędnik służby cywilnej, żołnierz w czynnej służbie wojskowej, funkcjonariusz policji oraz funkcjonariusz służb ochrony państwa nie mogą sprawować mandatu poselskiego.",
+        "sources": ["102", "103"]
+    },
+    {
+        "question": "Jakie są różnice w procedurze rozpatrywania projektów ustaw zwykłych i pilnych?",
+        "answer": "Podstawowa różnica polega na skróceniu terminów w przypadku projektów ustaw uznanych za pilne przez Radę Ministrów. Dla ustaw zwykłych Senat ma 30 dni na rozpatrzenie ustawy, a Prezydent 21 dni na jej podpisanie. W przypadku ustaw pilnych Senat ma tylko 14 dni na rozpatrzenie, a Prezydent 7 dni na podpisanie ustawy.",
+        "sources": ["121", "122", "123"]
+    },
+    {
+        "question": "Jakie prawa ma obywatel w postępowaniu karnym zgodnie z Konstytucją?",
+        "answer": "Obywatel w postępowaniu karnym ma prawo do obrony we wszystkich stadiach postępowania, w tym do wyboru obrońcy lub korzystania z obrońcy z urzędu. Każdy uważany jest za niewinnego, dopóki jego wina nie zostanie stwierdzona prawomocnym wyrokiem sądu. Każdemu zapewnia się nietykalność i wolność osobistą, a pozbawienie wolności może nastąpić tylko na zasadach i w trybie określonych w ustawie. Każdy zatrzymany powinien być niezwłocznie i w sposób zrozumiały poinformowany o przyczynach zatrzymania. Osoba pozbawiona wolności ma prawo do odwołania się do sądu w celu ustalenia legalności tego pozbawienia. Każdy ma prawo do sprawiedliwego i jawnego rozpatrzenia sprawy bez nieuzasadnionej zwłoki przez właściwy, niezależny i bezstronny sąd.",
+        "sources": ["42", "41", "45"]
+    },
+    {
+        "question": "Jakie są gwarancje niezawisłości sędziów i ich ochrona prawna?",
+        "answer": "Gwarancje sędziów to niezawisłość (podległość tylko Konstytucji i ustawom), nieusuwalność oraz zakaz pociągania do odpowiedzialności karnej lub pozbawienia wolności bez zgody sądu.",
+        "sources": ["178", "180", "181"]
+    }
+]
